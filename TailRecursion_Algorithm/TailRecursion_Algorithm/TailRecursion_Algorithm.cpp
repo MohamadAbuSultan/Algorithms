@@ -1,5 +1,7 @@
 #include <iostream>
 
+using namespace std;
+
 // Definition of the tail-recursive function
 int tailRecursion(int n, int result) {
     // Base case
@@ -14,6 +16,6 @@ int main() {
     // Calling the tail-recursive function
     int n = 5;
     int sum = tailRecursion(n, 0);
-    std::cout << "Sum of numbers from 1 to " << n << " is: " << sum << std::endl;
+    cout << "Sum of numbers from 1 to " << n << " is: " << sum << endl;
     return 0;
 }
