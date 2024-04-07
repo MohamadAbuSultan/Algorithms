@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Learning\\Grokking Algorithm\\Algorithms\\Recursion_Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D82B26-3C3F-43E8-B489-657CA2A167A6}|Recursion_Algorithm\\Recursion_Algorithm.vcxproj|D:\\My_Learning\\Grokking Algorithm\\Algorithms\\Recursion_Algorithm\\Recursion_Algorithm\\Recursion_Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10D82B26-3C3F-43E8-B489-657CA2A167A6}|Recursion_Algorithm\\Recursion_Algorithm.vcxproj|solutionrelative:Recursion_Algorithm\\Recursion_Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recursion_Algorithm.cpp",
+              "DocumentMoniker": "D:\\My_Learning\\Grokking Algorithm\\Algorithms\\Recursion_Algorithm\\Recursion_Algorithm\\Recursion_Algorithm.cpp",
+              "RelativeDocumentMoniker": "Recursion_Algorithm\\Recursion_Algorithm.cpp",
+              "ToolTip": "D:\\My_Learning\\Grokking Algorithm\\Algorithms\\Recursion_Algorithm\\Recursion_Algorithm\\Recursion_Algorithm.cpp",
+              "RelativeToolTip": "Recursion_Algorithm\\Recursion_Algorithm.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T16:53:53.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
