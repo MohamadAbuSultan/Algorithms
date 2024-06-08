@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\My_Learning\\Grokking Algorithm\\BinarySearch_Algorithm\\",
+  "WorkspaceRootPath": "D:\\My_Learning\\Algorithms\\BinarySearch_Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CED234F-FCC0-47CE-AC8F-CE3CCDCE13D3}|BinarySearch_Algorithm\\BinarySearch_Algorithm.vcxproj|D:\\My_Learning\\Grokking Algorithm\\BinarySearch_Algorithm\\BinarySearch_Algorithm\\BinarySearch_Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9CED234F-FCC0-47CE-AC8F-CE3CCDCE13D3}|BinarySearch_Algorithm\\BinarySearch_Algorithm.vcxproj|D:\\My_Learning\\Algorithms\\BinarySearch_Algorithm\\BinarySearch_Algorithm\\BinarySearch_Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9CED234F-FCC0-47CE-AC8F-CE3CCDCE13D3}|BinarySearch_Algorithm\\BinarySearch_Algorithm.vcxproj|solutionrelative:BinarySearch_Algorithm\\BinarySearch_Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,16 +25,12 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BinarySearch_Algorithm.cpp",
-              "DocumentMoniker": "D:\\My_Learning\\Grokking Algorithm\\BinarySearch_Algorithm\\BinarySearch_Algorithm\\BinarySearch_Algorithm.cpp",
+              "DocumentMoniker": "D:\\My_Learning\\Algorithms\\BinarySearch_Algorithm\\BinarySearch_Algorithm\\BinarySearch_Algorithm.cpp",
               "RelativeDocumentMoniker": "BinarySearch_Algorithm\\BinarySearch_Algorithm.cpp",
-              "ToolTip": "D:\\My_Learning\\Grokking Algorithm\\BinarySearch_Algorithm\\BinarySearch_Algorithm\\BinarySearch_Algorithm.cpp",
+              "ToolTip": "D:\\My_Learning\\Algorithms\\BinarySearch_Algorithm\\BinarySearch_Algorithm\\BinarySearch_Algorithm.cpp",
               "RelativeToolTip": "BinarySearch_Algorithm\\BinarySearch_Algorithm.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
